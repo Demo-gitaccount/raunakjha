@@ -1,5 +1,5 @@
 
-`Work Sample / Social media profiles
+Work Sample / Social media profiles
 
 !!! note "GitHub"
 
