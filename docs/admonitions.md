@@ -1,16 +1,13 @@
 
-Example of an admonition/callout with a title:
+`Work Sample / Social media profiles
 
-!!! note "Title of the callout"
+!!! note "GitHub"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    It contains various articles that fulfill various purposes. Some articles explain the steps involved in installation of certain Linux distributions. There are also some articles that list out the applications for various tasks.
 
-Collapsible callout:
+Case-Study on Hashnode :
 
-??? info "Collapsible callout"
+??? info "Hashnode"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    There are numerous case studies for some day to functions on Linux. Through these, we can try to solve the issues that people generally face while using LInux as a daily driver.
+    
