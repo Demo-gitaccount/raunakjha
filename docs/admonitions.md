@@ -9,5 +9,10 @@ Case-Study on Hashnode :
 
 ??? info "Hashnode"
 
-    There are numerous case studies for some day to functions on Linux. Through these, we can try to solve the issues that people generally face while using LInux as a daily driver.
+    There are numerous case studies for some day to day functions on Linux. Through these, we can try to solve the issues that we generally face while using Linux as a daily driver.
     
+Blog on Medium :
+
+??? info "Medium"
+
+    There are numerous articles on various topics that provide  some personAL opinions. These articles can give you a general insight on the topics that may be of interest to the readers.
