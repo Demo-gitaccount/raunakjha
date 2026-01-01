@@ -13,6 +13,6 @@ Case-Study on Hashnode :
     
 Blog on Medium :
 
-??? info "Medium"
+!!! note "Medium"
 
-    There are numerous articles on various topics that provide  some personAL opinions. These articles can give you a general insight on the topics that may be of interest to the readers.
+    There are numerous articles on various topics that provide  some personal opinions. These articles can give you a general insight on the topics that may be of interest to the readers.
