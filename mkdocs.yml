@@ -48,8 +48,8 @@ markdown_extensions:
 # ← HERE: add your social links under "extra"
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/
+    - icon: simple/github
+      link: https://github.com/jharaunakgit
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/raunakjha188
 
